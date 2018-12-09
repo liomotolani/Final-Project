@@ -1,0 +1,16 @@
+body{
+    background:url(image1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#signup{
+    width:350px;
+    margin-top:150px;
+    margin-left:400px;
+}
+#signin{
+    width:350px;
+    margin-top:150px;
+    margin-left:450px;
+}
